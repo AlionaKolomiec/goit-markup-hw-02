@@ -26,9 +26,15 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
 }
 .logo-part {
   color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
 }
 .footer {
   background-color: #2e2f42;
