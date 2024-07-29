@@ -19,3 +19,17 @@ button {
 .text {
   font-weight: 400;
 }
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-part {
+  color: #2e2f42;
+}
+.footer {
+  background-color: #2e2f42;
+}
